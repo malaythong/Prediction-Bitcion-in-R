@@ -3,7 +3,7 @@ library(prophet)
 library(tidyverse)
 library(dplyr)
 
-# ອ່ານໄຟຣ໌ **BTC_USD.csv** ເຂົ້າໃສ່ **bitcoi**
+# ອ່ານໄຟຣ໌ **BTC_USD.csv** ເຂົ້າໃສ່ **bitcion**
 bitcoin <- read_csv("../examples/example/BTC_USD.csv")
 head(bitcoin)
 tail(bitcoin)
